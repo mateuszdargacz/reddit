@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="626e7856-52b2-443f-95f9-ae2718a0ab24" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/searching_page.ts" afterPath="$PROJECT_DIR$/src/actions/searching_page.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/index_search_page/searching.tsx" afterPath="$PROJECT_DIR$/src/components/index_search_page/searching.tsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/reducer_subreddits_search.ts" afterPath="$PROJECT_DIR$/src/reducers/reducer_subreddits_search.ts" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,8 +40,8 @@
       <file leaf-file-name="searching.tsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/index_search_page/searching.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="39" column="45" lean-forward="true" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+            <state relative-caret-position="512">
+              <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -1034,8 +1032,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/index_search_page/searching.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="39" column="45" lean-forward="true" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+        <state relative-caret-position="512">
+          <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
